@@ -1,0 +1,6 @@
+a = int(input('Enter number: '))
+if a>50:
+    print('hi')
+else:
+    print('bye')
+    
